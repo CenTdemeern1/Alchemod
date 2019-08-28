@@ -1,0 +1,93 @@
+{
+    "settings": {
+        "resetProgressConfirm": "Ønsker du virkelig å nullstille resultatene dine ?!",
+        "disconnectConfirm": "Er du sikker på at du vil koble fra Google-kontoen din?"
+    },
+    "menu": {
+        "welcome": "Hjem",
+        "settings": "Innstillinger",
+        "leaderboards": "Ledertavle",
+        "achievements": "Prestasjoner"
+    },
+    "elementInfo": {
+        "itIsAsItIs": "Det er som det er..."
+    },
+    "languages": {
+        "en": "Engelsk",
+        "pl": "polsk",
+        "de": "Tysk"
+    },
+    "login": {
+        "login": "logg inn",
+        "logout": "logg ut"
+    },
+    "share": {
+        "screenshotTitle": "Sjekk ut hva jeg har gjort i Little Alchemy.",
+        "screenshotMessage": "http://littlealchemy.com",
+        "leaderboardMessage": "Sjekk ut dette kule spillet. http://littlealchemy.com",
+        "in": "i",
+        "elements": "elementer",
+        "discovered": "Jeg oppdaget",
+        "screenshotWaiting": "Bare et øyeblikk, skjermbildet ditt er straks klart...",
+        "signYourself": "Skriv meldingen din",
+        "share": "Del!"
+    },
+    "achievements": {
+        "50elements": {
+            "title": "50 elementer",
+            "description": "Finn 50 elementer.",
+            "earned": "Du fant 50 elementer. Godt jobbet!"
+        },
+        "100elements": {
+            "title": "100 elementer",
+            "description": "Finn 100 elementer.",
+            "earned": "100 elementer! Ganske mange allerede."
+        },
+        "200elements": {
+            "title": "200 elementer",
+            "description": "Finn 200 elementer.",
+            "earned": "200 elementer! Så flink du er!"
+        },
+        "300elements": {
+            "title": "This! Is! Alchemy!",
+            "description": "Tog du an?",
+            "earned": "296 fler enn du hadde i begynnelsen."
+        },
+        "400elements": {
+            "title": "Jeg sverger: jeg kan stoppe når som helst.",
+            "description": "400 er et ganske høyt tall.",
+            "earned": "400 ?! Du nærmer deg nå..."
+        },
+        "completionist": {
+            "title": "Finn alle! Absolutt alle!",
+            "description": "På et tidspunkt må du ha alle tilgjengelige elementer i biblioteket.",
+            "earned": "Du klarte det! Utholdenheten din er virkelig imponerende!"
+        },
+        "hiddenelement": {
+            "title": "Er dette virkelig?",
+            "description": "En skjult perle, sier du?",
+            "earned": "Et skjult element!"
+        }
+    },
+    "loadingMessage": {
+        "combine": "Kombiner elementer for å se hva du kan komme opp med!",
+        "longpress": "Trykk lenge på elementet for mer informasjon.",
+        "signin": "Ved å logge inn kan du synkronisere resultatene dine til andre enheter.",
+        "newsletter": "<a href=http://littlealchemy.com/newsletter target=_blank> Trykk her for å registrere deg på nyhetsbrevet vårt, slik at du aldri trenger å gå glipp av noe igjen! </a>",
+        "shareProgress": "Trykk på elementtelleren for å dele resultatene med vennene dine.",
+        "achievements": "Sjekk menyen for prestasjoner.",
+        "leaderboards": "Hvis du er logget inn, kan du sjekke dine venners fremgang i menyen.",
+        "finalClear": "Hvis du har noen endelige elementer i arbeidsområdet kan du trykke på resirkuleringsknappen en gang for å fjerne dem. Alt annet forblir intakt.",
+        "clone": "Dobbelttrykk og flytt elementet til arbeidsområdet for å kopiere det.",
+        "mixItself": "Du er klar over at du kan blande elementet med seg selv, ikke sant?",
+        "hideFinal": "I innstillingene kan du skjule endelige elementer fra biblioteket.",
+        "hydrated": "Drikk nok vann.",
+        "salad": "5 om dagen, det gjør kroppen gla´.",
+        "cookies": "sjokoladekjeks = digg",
+        "randomMessage": "Genererer merkelige skjermmeldinger...",
+        "smile": "¯\\_(ツ)_/¯",
+        "breaks": "Husk å ta pauser innimellom.",
+        "overcomplicating": "Overkompliserer biblioteket...",
+        "science": "Vitenskap! \\o/"
+    }
+}

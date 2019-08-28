@@ -1,0 +1,93 @@
+{
+    "settings": {
+        "resetProgressConfirm": "Wil je echt je vooruitgang te resetten ?!",
+        "disconnectConfirm": "Weet je zeker dat u jouw Google+ account wilt uitschakelen?"
+    },
+    "menu": {
+        "welcome": "Thuis",
+        "settings": "Instellingen",
+        "leaderboards": "Klassement",
+        "achievements": "Prestaties"
+    },
+    "elementInfo": {
+        "itIsAsItIs": "Het is zoals het is ..."
+    },
+    "languages": {
+        "en": "Engels",
+        "pl": "Pools",
+        "de": "Duits"
+    },
+    "login": {
+        "login": "Log in",
+        "logout": "Log uit"
+    },
+    "share": {
+        "screenshotTitle": "Kijk eens wat ik zoal in Kleine Alchemie heb gedaan.",
+        "screenshotMessage": "http:/kleinealchemie.com",
+        "leaderboardMessage": "Probeer eens dit cool spelletje. http://kleinealchemie.com",
+        "in": "in",
+        "elements": "onderdelen",
+        "discovered": "Ik ontdekte",
+        "screenshotWaiting": "Een momentje, je screenshot wordt verwerkt ...",
+        "signYourself": "Onderteken je bericht",
+        "share": "Deel!"
+    },
+    "achievements": {
+        "50elements": {
+            "title": "50 Onderdelem",
+            "description": "Vind 50 onderdelen",
+            "earned": "Je hebt 50 onderdelen gevonden. Goed gedaan!"
+        },
+        "100elements": {
+            "title": "100 Onderdelen",
+            "description": "Vind 100 onderdelen",
+            "earned": "100 onderdelen! Dat is heel wat."
+        },
+        "200elements": {
+            "title": "200 O",
+            "description": "Vind 200 onderdelem",
+            "earned": "200 onderdelen! Je doet het geweldig!"
+        },
+        "300elements": {
+            "title": "Dit! Is! Alchemie!",
+            "description": "Is deze referentie zelfs maar geestig?",
+            "earned": "296 meer dan je in het begin had."
+        },
+        "400elements": {
+            "title": "Ik Zweer Het ! Ik Kan Op Elk Moment Stoppen.",
+            "description": "400 is een vrij groot aantal.",
+            "earned": "400 ?! Je bent er bijna."
+        },
+        "completionist": {
+            "title": "Vind Ze Allemaal",
+            "description": "Op een gegeven moment heb alle beschikbare onderdelen in je bibliotheek.",
+            "earned": "Het is je gelukt! Je doorzettingsvermogen is onverwoestbaar!"
+        },
+        "hiddenelement": {
+            "title": "Is Dit Slechts Een Fantasie?",
+            "description": "Een Verborgen Schat, nietwaar?",
+            "earned": "Een verborgen onderdeel!"
+        }
+    },
+    "loadingMessage": {
+        "combine": "Combineer onderdelen om te zien wat je kunt maken!",
+        "longpress": "Druk lang op het onderdeel om er zo meer informatie over te krijgen.",
+        "signin": "Aanmelden laat je jouw vooruitgang op verschillende apparaten synchroniseren.",
+        "newsletter": "<a href=http://lkleinealchemie.com/nieuwsbriefr doelt=_blank> Tik hier om je opnieuw aan te melden voor onze nieuwsbrief en mis nooit meer een update! </a>",
+        "shareProgress": "Je kunt op de item teller tikken om je voortgang met je vrienden te delen.",
+        "achievements": "Controleer het menu voor prestaties.",
+        "leaderboards": "Als je bent ingelogd kun je de voortgang van je vrienden in het menu volgen.",
+        "finalClear": "Als je laatste onderdelen in de werkruimte hebt, kan je eenmaal op de recycleknop tikken om ze te verwijderen terwijl al de rest intact blijft.",
+        "clone": "Dubbel-tik op de item en verplaats het naar de werkplek om het te dupliceren.",
+        "mixItself": "Je weet dat je het item met zichzelf kunt laten mengen, correct?",
+        "hideFinal": "In de instellingen kan je de niet herbruikbare onderdelen uit de bibliotheek verbergen.",
+        "hydrated": "Blijf gehydrateerd.",
+        "salad": "Salade op toast.",
+        "cookies": "chocolatekoekjes zijn superlekker",
+        "randomMessage": "Willekeurige laadscherm berichten aan het genereren ...",
+        "smile": "¯\\_(ツ)_/¯",
+        "breaks": "Vergeet niet om af en toe te pauzeren.",
+        "overcomplicating": "Een volgeladen bibliotheek ...",
+        "science": "Wetenschap! \\o/"
+    }
+}

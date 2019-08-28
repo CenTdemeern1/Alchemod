@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Little Alchemy</title>
+        <meta name="description" content="A simple but addictive game. Start with four basic items and use them to find dinosaurs, unicorns and spaceships!">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+        <meta name="theme-color" content="#75005D">
+
+        <link rel="stylesheet" href="fonts/fonts.css">
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/height.css">
+        <link rel="stylesheet" href="css/share.css">
+    </head>
+    <body>
+    <script>
+        if(JSON.parse(localStorage["settings"]).nightMode) {
+            document.body.className += " nightMode";
+        }
+    </script>
+        <div class="googlePlusHaxor"></div>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+        <div id="loadingScreen" class="loadingScreen">
+            <div class="loadingScreenContainer">
+                <img class="loadingScreenLogo" src="img/loading-screen-logo.png">
+                <div class="playButtonContainer rect">
+                    <div class="playButton">
+                        <svg class="playButton" width="300" height="100">
+                            <rect
+                                 x="0" y="0" width="300" height="100"
+                                 fill="transparent"
+                            />
+                            <path
+                                stroke="#75005D" stroke-width="0" fill="none"
+                                d="M0 0 H 300 V 100 H 0 L 0 0"
+                                stroke-dasharray="800, 800"
+                                stroke-dashoffset="800"
+                                style="display: none"
+                            />
+                        </svg>
+                    </div>
+                    <div class="progressBar">0%</div>
+                </div>
+                <div id="loadingScreenMessage" class="loadingScreenMessage"></div>
+            </div>
+            <div class="loadingScreenLA2">
+                <a data-la2="loading-screen-logo"><img src="img/la2logo.svg" /></a>
+                <div><a class="loadingScreenLink" data-la2="loading-screen-text">Modded Little Alchemy powered by Alchemod!</a></div>
+            </div>
+        </div>
+
+        <div id="workspace" class="workspace">
+        </div>
+        <div id="side" class="side">
+            <div id="alphabet" class="alphabet">
+                <ul>
+                    <li>A</li><li>B</li><li>C</li><li>D</li><li>E</li><li>F</li><li>G</li><li>H</li><li>I</li><li>J</li><li>K</li><li>L</li><li>M</li><li>N</li><li>O</li><li>P</li><li>Q</li><li>R</li><li>S</li><li>T</li><li>U</li><li>V</li><li>W</li><li>X</li><li>Y</li><li>Z</li>
+                </ul>
+            </div>
+
+            <div id="libraryOverlay"></div>
+            <div id="outerLibrary" class="outerLibrary">
+                <div id="library" class="library"></div>
+            </div>
+            <div class="libraryFade"></div>
+        </div>
+
+        <div id="ui" class="ui">
+            <div id="progress" class="progress"></div>
+
+            <div id="toggleFullscreen" class="toggleFullscreen" style="display: none"></div>
+
+            <div id="icons" class="icons">
+                <!--<a title="Little Alchemy 2 is out! Play it now!" data-la2="menu"><div class="icon iconLA2" id="littleAlchemy2Button">
+                </div></a>-->
+                <div class="icon iconClear" id="clearWorkspace">
+                </div>
+                <div class="icon iconScreenshot" id="screenshotIcon">
+                </div>
+                <div class="icon iconMenu" id="menu">
+                </div>
+            </div>
+
+            <div id="broadcast" class="broadcast">
+                <!-- <div class="controls" style="display: none">
+                    <div class="prev">&#8593;</div>
+                    <div class="next">&#8595;</div>
+                </div> -->
+                <div class="content"></div>
+            </div>
+
+            <!-- <div class="historyButtons" style="display:none">
+                <button id="backButton">Back</button>
+                <button id="forwardButton">Forward</button>
+            </div> -->
+
+            <div id="login" class="login"></div>
+        </div>
+
+        <div id="panel" class="panel">
+            <div class="content">
+                <div id="closePanel" class="closePanel"></div>
+            </div>
+        </div>
+
+        <div class="outerSharingBox">
+            <div id="sharingBox" class="sharingBox">
+                <div class="closePanel"></div>
+                <div id="sharingBoxMessage" class="sharingBoxMessage"></div>
+                <input id="sharingName" class="sharingBoxInput" placeholder="Player" type="text" maxlength="13" />
+                <button class="sharingBoxButton"></button>
+            </div>
+        </div>
+
+        <input type="hidden" id="searchBar" class="searchBar" />
+
+        <div class="outerNotificationBox">
+            <div id="notificationBox" class="notificationBox hide">
+                <div class="close"></div>
+                <div class="content"></div>
+            </div>
+        </div>
+
+        <div id="sharing">
+            <div id="shareElement" class="container" style="display: none;">
+                <div class="box">
+                    <img src="img/little-alchemy-logo.png" class="logo">
+                    <div class="content">
+                        <span data-text="discovered"></span>: <br>
+                        <img src="" class="elementImage">
+                        <span class="elementDescription"></span> <br>
+                        <span class="elementIn" data-text="in"></span> <img src="img/little-alchemy.png" class="littleAlchemyName" alt="Little Alchemy"> <br>
+                        <div class="name"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="shareProgress" class="container" style="display: none">
+                <div class="box">
+                    <img src="img/little-alchemy-logo.png" class="logo">
+                    <div class="content">
+                        <span data-text="discovered"></span> <br />
+                        <span class="elementDescription"></span> <span data-text="elements"></span><br />
+                        <span class="elementIn" data-text="in"></span> <img src="img/little-alchemy.png" class="littleAlchemyName" alt="Little Alchemy"> <br />
+                        <div class="name"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="overlay" class="overlay"></div>
+
+        <script src="js/vendor/jquery-2.1.0.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+
+        <script src="js/vendor/dragNdrop.js"></script>
+        <script src="js/vendor/iscroll-lite-5.0.6.1.js"></script>
+        <script src="js/vendor/googleLogin.js"></script>
+        <script src="js/vendor/fastClick.js"></script>
+        <script src="js/vendor/templateEngine.v2.js"></script>
+
+        <script src="js/alchemy.game.js"></script>
+        <script src="js/alchemy.bases.js"></script>
+        <script src="js/alchemy.loadingScreen.js"></script>
+        <script src="js/alchemy.settings.js"></script>
+        <script src="js/alchemy.localization.js"></script>
+        <script src="js/alchemy.loading.js"></script>
+        <script src="js/alchemy.GoogleAPI.js"></script>
+
+        <script src="js/alchemy.gestures.js"></script>
+        <script src="js/alchemy.storage.js"></script>
+        <script src="js/alchemy.search.js"></script>
+        <script src="js/alchemy.templates.js"></script>
+        <script src="js/alchemy.update.js"></script>
+
+        <script src="js/alchemy.library.js"></script>
+        <script src="js/alchemy.library.box.js"></script>
+        <script src="js/alchemy.workspace.js"></script>
+        <script src="js/alchemy.workspace.box.js"></script>
+
+        <script src="js/main.js"></script>
+
+        <script src="js/alchemy.notifications.data.js" async></script>
+        <script src="js/alchemy.achievements.data.js" async></script>
+        <script src="js/alchemy.stats.js" async></script>
+        <script src="js/alchemy.menu.js" async></script>
+        <script src="js/alchemy.feedback.js" async></script>
+        <script src="js/alchemy.notifications.js" async></script>
+        <script src="js/alchemy.sharing.js" async></script>
+        <script src="js/alchemy.elementInfo.js" async></script>
+        <script src="js/alchemy.broadcast.js" async></script>
+        <script src="js/alchemy.leaderboard.js" async></script>
+        <script src="js/alchemy.achievements.js" async></script>
+        <script src="js/vendor/html2canvas-0.4.1.js" async></script>
+
+        <script src="https://apis.google.com/js/client.js?onload=GAPILoaded" async defer id="GAPIScript" onerror="GAPILoadError()"></script>
+    </body>
+</html>

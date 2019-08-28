@@ -1,0 +1,93 @@
+{
+    "settings": {
+        "resetProgressConfirm": "Realmente deseja reiniciar seu progresso?",
+        "disconnectConfirm": "Tem certeza de que deseja se desconectar de sua conta Google+?"
+    },
+    "menu": {
+        "welcome": "Página&nbsp;inicial",
+        "settings": "Configurações",
+        "leaderboards": "Placar",
+        "achievements": "Conquistas"
+    },
+    "elementInfo": {
+        "itIsAsItIs": "É como é..."
+    },
+    "languages": {
+        "en": "Inglês",
+        "pl": "Polonês",
+        "de": "Alemão"
+    },
+    "login": {
+        "login": "entrar",
+        "logout": "sair"
+    },
+    "share": {
+        "screenshotTitle": "Confira o que eu fiz no Little Alchemy",
+        "screenshotMessage": "http://littlealchemy.com",
+        "leaderboardMessage": "Confira esse jogo legal. http://littlealchemy.com",
+        "in": "em",
+        "elements": "elementos",
+        "discovered": "Descobri",
+        "screenshotWaiting": "Só um momento, sua imagem está sendo processada...",
+        "signYourself": "Assine sua mensagem",
+        "share": "Compartilhe!"
+    },
+    "achievements": {
+        "50elements": {
+            "title": "50 elementos",
+            "description": "Encontre 50 elementos.",
+            "earned": "Você encontrou 50 elementos. Muito bem!"
+        },
+        "100elements": {
+            "title": "100 elementos",
+            "description": "Encontre 100 elementos.",
+            "earned": "100 elementos! Já é bastante."
+        },
+        "200elements": {
+            "title": "200 elementos",
+            "description": "Encontre 200 elementos.",
+            "earned": "200 elementos! Você está indo muito bem!"
+        },
+        "300elements": {
+            "title": "Isso! É! Alquimia!",
+            "description": "Essa referência é engraçada?",
+            "earned": "296 a mais do que você tinha no começo."
+        },
+        "400elements": {
+            "title": "Juro que consigo parar a qualquer momento.",
+            "description": "400 é um número bem alto.",
+            "earned": "400?! Você está chegando perto."
+        },
+        "completionist": {
+            "title": "Precisa pegar todos",
+            "description": "Em algum momento, terá todos os elementos disponíveis em sua biblioteca.",
+            "earned": "Você conseguiu! Sua persistência é inquebrável!"
+        },
+        "hiddenelement": {
+            "title": "Isso é apenas fantasia?",
+            "description": "Uma joia oculta, não é?",
+            "earned": "Um elemento oculto!"
+        }
+    },
+    "loadingMessage": {
+        "combine": "Combine elementos para ver o que consegue criar!",
+        "longpress": "Pressione o elemento por mais tempo para obter informações sobre o mesmo.",
+        "signin": "Entrar vai lhe permitir sincronizar seu progresso em vários dispositivos.",
+        "newsletter": "<a href=http://littlealchemy.com/newsletter target=_blank> Toque aqui para se inscrever em nossa newsletter e nunca perca uma atualização! </a>",
+        "shareProgress": "Você pode tocar no contador para compartilhar seu progresso com amigos.",
+        "achievements": "Verifique o menu para ver conquistas.",
+        "leaderboards": "Se você estiver logado, poderá ver o progresso dos seus amigos no menu.",
+        "finalClear": "Se você tiver elementos finais na área de trabalho, poderá tocar no botão de reciclagem uma vez para eliminá-los, deixando o resto intacto.",
+        "clone": "Toque duas vezes e mova o item pela área de trabalho para duplicá-lo.",
+        "mixItself": "Você sabe que pode misturar o item com ele mesmo, certo?",
+        "hideFinal": "Nas configurações, você pode ocultar elementos finais da biblioteca.",
+        "hydrated": "Mantenha-se hidratado.",
+        "salad": "Salada sobre torradas.",
+        "cookies": "biscoito com gotas de chocolate = deliciosos",
+        "randomMessage": "Gerando mensagens de tela de carregamento aleatório....",
+        "smile": "¯\\_(ツ)_/¯",
+        "breaks": "Lembre-se de fazer pausas de vez em quando.",
+        "overcomplicating": "Complicando demais a biblioteca...",
+        "science": "Ciência! \\o/"
+    }
+}

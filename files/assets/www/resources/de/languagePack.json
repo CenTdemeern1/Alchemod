@@ -1,0 +1,93 @@
+{
+    "settings": {
+        "resetProgressConfirm": "Möchtest Du wirklich dein Fortschritt löschen!?",
+        "disconnectConfirm": "Möchtest Du wirklich dein Google+ Konto trennen!?"
+    },
+    "menu": {
+        "welcome": "Start",
+        "settings": "Einstellungen",
+        "leaderboards": "Bestenliste",
+        "achievements": "Erfolge"
+    },
+    "elementInfo": {
+        "itIsAsItIs": "Du hast es seit Anfang."
+    },
+    "languages": {
+        "en": "English",
+        "pl": "polski",
+        "de": "Deutsch"
+    },
+    "login": {
+        "login": "Einloggen",
+        "logout": "Ausloggen"
+    },
+    "share": {
+        "screenshotTitle": "Schaumal was ich in der Little Alchemy geschafft habe!",
+        "screenshotMessage": "http://littlealchemy.com",
+        "leaderboardMessage": "Probier mal dieses cooles Spiel! http://littlealchemy.com",
+        "in": "in",
+        "elements": "Elemente",
+        "discovered": "Ich shuf",
+        "screenshotWaiting": "Nur ein kleines Moment dein Blid wird aufgenommen.",
+        "signYourself": "Dein Name",
+        "share": "Teile es mit deinen Freunden!"
+    },
+    "achievements": {
+        "50elements": {
+            "title": "50 Elemente",
+            "description": "Finde 50 Elemente",
+            "earned": "Du hast 50 Elemente geschafft! Gut gemacht!"
+        },
+        "100elements": {
+            "title": "100  Elemente",
+            "description": "Finde 100 Elemente.",
+            "earned": "100 elemente! Ziemlich viel."
+        },
+        "200elements": {
+            "title": "200 Elemente",
+            "description": "Finde 200 Elemente.",
+            "earned": "200 Elemente! Es geht dir gut!"
+        },
+        "300elements": {
+            "title": "Das! Ist! Alchemie!",
+            "description": "Ist es überhaupt noch Witzig?",
+            "earned": "296 Mehr als du am Anfang hättest."
+        },
+        "400elements": {
+            "title": "Ich schwör ich kann jeder Zeit aufhören.",
+            "description": "400 is eine große Zahl",
+            "earned": "400!? Du bist immer näher."
+        },
+        "completionist": {
+            "title": "Gotta Catch 'Em All",
+            "description": "Find alle Elemente.",
+            "earned": "Ja! Du hast es geschafft! Deine Beharrlichkeit ist unzetbrechlich"
+        },
+        "hiddenelement": {
+            "title": "Is This Just Fantasy?",
+            "description": "Ein Geheimniss.",
+            "earned": "Ein Geheimelement!"
+        }
+    },
+    "loadingMessage": {
+        "combine": "Mische Elemente um zu sehen was daraus kommt.",
+        "longpress": "Langer Tastendruck auf ein Element zeigt mehr Informationen darüber.",
+        "signin": "Einloggen wird dir eine Synchronisation des Fortschritts ermöglichen.",
+        "newsletter": "<a href=\"http://littlealchemy.com/newsletter\" target=\"_blank\">Tap here to sign up for our newsletter and never miss an update again!</a>",
+        "shareProgress": "Drücke auf den Zähler, um deinen Fortschritt mit deinen Freunden zu teilen.",
+        "achievements": "Im Menu kannst du deine Erfolge sehen.",
+        "leaderboards": "Nach dem Einloggen kannst du den Fortschritt von deinen Bekannten überprüfen.",
+        "finalClear": "Wenn du finale Elemente auf dem Arbeitsbereich hast, kannst du diese mit dem Recycle-Symbol entfernen.",
+        "clone": "Doppeltes Tippen und Bewegen eines Elements dupliziert es",
+        "mixItself": "Du weißt, dass du auch Elemente mit sich selbst kombinieren kannst?",
+        "hideFinal": "In den Einstellungen kannst du finale Elemente in der Bibliothek verstecken.",
+        "hydrated": "Party! Party!",
+        "salad": "Aussuchen eines Sternmusters",
+        "cookies": "Kühlen von Sodas",
+        "randomMessage": "Dumme Ladetext generieren.",
+        "smile": "¯\\_(ツ)_/¯",
+        "breaks": "Vergiss nicht Pausen zu machen",
+        "overcomplicating": "Überkomplizierung der Bibliothek...",
+        "science": "Gieß Blumen nicht Krieg"
+    }
+}

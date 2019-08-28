@@ -1,0 +1,93 @@
+{
+    "settings": {
+        "resetProgressConfirm": "Voulez-vous vraiment réinitialiser votre progression ?!",
+        "disconnectConfirm": "Etes-vous sûr que vous voulez déconnecter de votre compte Google+ ?"
+    },
+    "menu": {
+        "welcome": "Accueil",
+        "settings": "Paramètres",
+        "leaderboards": "Tableau&nbsp;de&nbsp;classement",
+        "achievements": "Performances"
+    },
+    "elementInfo": {
+        "itIsAsItIs": "C'est comme c'est..."
+    },
+    "languages": {
+        "en": "Anglais",
+        "pl": "Polonais",
+        "de": "Allemand"
+    },
+    "login": {
+        "login": "Se connecter",
+        "logout": "déconnexion"
+    },
+    "share": {
+        "screenshotTitle": "Regardez ce que j'ai fait dans Little Alchemy.",
+        "screenshotMessage": "http://littlealchemy.com",
+        "leaderboardMessage": "Découvrez ce jeu amusant. http://littlealchemy.com",
+        "in": "dans",
+        "elements": "éléments",
+        "discovered": "J'ai découvert",
+        "screenshotWaiting": "Juste un instant, votre capture d'écran est en cours de traitement ...",
+        "signYourself": "Inscrivez votre message",
+        "share": "Partagez !"
+    },
+    "achievements": {
+        "50elements": {
+            "title": "50 Éléments",
+            "description": "Trouver 50 éléments.",
+            "earned": "Vous avez trouvé 50 éléments. Bon travail !"
+        },
+        "100elements": {
+            "title": "100 Éléments",
+            "description": "Trouver 100 éléments.",
+            "earned": "100 éléments ! Un peu déjà."
+        },
+        "200elements": {
+            "title": "200 Éléments",
+            "description": "Trouver 200 éléments.",
+            "earned": "200 éléments! Vous faites un excellent travail !"
+        },
+        "300elements": {
+            "title": "C'est de l'Alchimie !",
+            "description": "Est-ce que cette référence est drôle ?",
+            "earned": "296 de plus que ce que vous aviez au début."
+        },
+        "400elements": {
+            "title": "Je jure que je peux arrêter à tout moment.",
+            "description": "400 est un assez grand nombre.",
+            "earned": "400 ?! Vous êtes proches."
+        },
+        "completionist": {
+            "title": "Attrapez-les tous",
+            "description": "À un certain moment vous avez tous les éléments disponibles dans votre bibliothèque.",
+            "earned": "Vous l'avez fait ! Votre persévérance est indestructible !"
+        },
+        "hiddenelement": {
+            "title": "Est-ce juste fantastique ?",
+            "description": "Un joyau caché, hein ?",
+            "earned": "Un élément caché !"
+        }
+    },
+    "loadingMessage": {
+        "combine": "Combiner des éléments pour voir ce que vous pouvez obtenir  avec !",
+        "longpress": "Appuyez longuement sur l'élément pour obtenir plus d'informations à ce sujet.",
+        "signin": "La connexion vous permettra de synchroniser votre progression à travers différents appareils.",
+        "newsletter": "<a href=http://littlealchemy.com/newsletter target=_blank> Appuyez ici pour vous inscrire à notre newsletter et ne manquez jamais une mise à jour à nouveau ! </a>",
+        "shareProgress": "Vous pouvez appuyer sur le compteur d'articles pour partager votre progrès avec vos amis.",
+        "achievements": "Vérifiez le menu pour les performances.",
+        "leaderboards": "Si vous êtes connecté, vous pouvez vérifier la progression de vos amis dans le menu.",
+        "finalClear": "Si vous avez les derniers éléments sur l'espace de travail, vous pouvez appuyer sur le bouton de recyclage une fois pour les faire disparaître en laissant tout le reste intact.",
+        "clone": "Tapez deux fois et placez le point sur l'espace de travail pour le dupliquer.",
+        "mixItself": "Vous savez que vous pouvez mélanger le produit avec lui-même, non ?",
+        "hideFinal": "Dans les paramètres, vous pouvez masquer les derniers éléments de la bibliothèque.",
+        "hydrated": "Restez hydraté.",
+        "salad": "Salade sur des toasts.",
+        "cookies": "biscuits aux pépites de chocolat = délicieux",
+        "randomMessage": "Générer des messages d'écran de chargement aléatoires ...",
+        "smile": "¯\\_(ツ)_/¯",
+        "breaks": "Rappelez-vous de prendre des pauses de temps en temps.",
+        "overcomplicating": "Surcharger la bibliothèque ...",
+        "science": "Science ! \\o/"
+    }
+}

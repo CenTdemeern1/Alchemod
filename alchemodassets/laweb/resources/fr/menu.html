@@ -1,0 +1,124 @@
+<!--
+	MENU
+-->
+<script id="menuTemplate" type="text/html">
+	<div id="outerMenuTabs" class="outerMenuTabs">
+		<ul id="menuTabs" class="menuTabs">
+			<% for(var menuItem in data) { %>
+				<li data-tabName="<%= menuItem %>" class="menu<%= menuItem %>"><%= data[menuItem].title %></li>
+			<% } %>
+		</ul>
+	</div>
+	<div id="menuContent" class="menuContent">
+		<div id="menuScroll" class="menuScroll">
+			<% for(var menuItem in data) { %>
+				<div id="<%= menuItem %>" class="hidden"><div></div></div>
+			<% } %>
+		</div>
+	</div>
+</script>
+
+<!--
+	WELCOME
+-->
+<script id="welcomeTemplate" type="text/html">
+	<h3>Newsletter</h3>
+	<p><a href="http://littlealchemy.com/newsletter" target="_blank">Inscrivez-vous à notre newsletter et ne manquez jamais une mise à jour.</a></p>
+	<h3>Médias sociaux</h3>
+	<p>Suivez-nous sur les médias sociaux !</p>
+	<ul class="menuSocialMedia">
+		<li><img src="img/icon-twitter.png" class="menuSocialMediaTwitter" /></li>
+		<li><img src="img/icon-googleplus.png" class="menuSocialMediaGoogle" /></li>
+		<li><img src="img/icon-facebook.png" class="menuSocialMediaFacebook" /></li>
+	</ul>
+	<h3>Contact</h3>
+	<ul>
+		<li>contact@littlealchemy.com</li>
+		<li><a href="http://jakubkoziol.com/press/sheet.php?p=little_alchemy" target="_blank">presskit</a></li>
+	</ul>
+	<h3>Team</h3>
+	<p>A game by Jakub Koziol // <a href="http://twitter.com/jakubkoziol" target="_blank">@jakubkoziol</a></p>
+	<p>Little Alchemy wouldn&#39;t be possible without the help from these fine folks:</p>
+	<ul>
+		<li>Łukasz Nawrot - Code</li>
+		<li>Marcin Bychawski - Code, Tools</li>
+		<li>Ewa Koziol - Icons</li>
+		<li>Kamil Kubiak - QA</li>
+	</ul>
+</script>
+
+<!--
+	SETTINGS
+-->
+<script id="settingsTemplate" type="text/html">
+	<h3>Paramètres</h3>
+	<ul>
+		<li>
+			<select class="menuSelect" id="settingsLanguage">
+				<% for(var lang in languages) { %>
+					<option value="<%= lang %>" <% if(lang === selected) { %>selected<% } %>>
+						<%= languages[lang] %>
+					</option>
+				<% } %>
+			</select>
+			<label for="settingsLanguage">Choisissez la langue</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsCheckAlreadyCombined"/>
+			<label class="menuCheckboxLabel" for="settingsCheckAlreadyCombined">Ne pas mélanger des éléments précédemment combinés</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsMarkFinalElements"/>
+			<label class="menuCheckboxLabel" for="settingsMarkFinalElements">Marquer les derniers éléments</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsHideFinalElements"/>
+			<label class="menuCheckboxLabel" for="settingsHideFinalElements">Masquer les derniers éléments de la bibliothèque</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsTurnOffNotifications"/>
+			<label class="menuCheckboxLabel" for="settingsTurnOffNotifications">Désactiver les notifications</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsTurnOffElementsPositions"/>
+			<label class="menuCheckboxLabel" for="settingsTurnOffElementsPositions">Ne pas enregistrer les positions sur l'espace de travail</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsHideElementNames"/>
+			<label class="menuCheckboxLabel" for="settingsHideElementNames">Masquer les noms sur l'espace de travail</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsNightMode"/>
+			<label class="menuCheckboxLabel" for="settingsNightMode">Mode nuit</label>
+		</li>
+		<li id="loggedInAs" class="loggedInAs" style="display: none">
+			Vous êtes connecté en tant que : <span></span>
+		</li>
+		<li class="menuButtonContainer">
+			<button class="menuButton" id="settingsDisconnect">Déconnectez-vous de Google+</button>
+		</li>
+		<li class="menuButtonContainer">
+			<button class="menuButton" id="settingsResetProgress">Réinitialiser la progression</button>
+		</li>
+	</ul>
+</script>
+
+<!--
+	LEADERBOARDS
+-->
+<script id="leaderboardsTemplate" type="text/html">
+	<h3>Tableau de classement</h3>
+	<div class="waitText" id="leaderboardWaitText" style="display: none">
+		<div class="waitingIndicator" id="leaderboardWaitingIndicator"></div>
+	</div>
+	<div id="leaderboard"></div>
+	<button class="menuButton" id="shareLeaderboard" style="display: none;">Partager</button>
+</script>
+
+<!--
+	ACHIEVEMENTS
+-->
+<script id="achievementsTemplate" type="text/html">
+	<h3>Performances</h3>
+	<div id="achievementsList"></div>
+</script>

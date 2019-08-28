@@ -1,0 +1,124 @@
+<!--
+	MENU
+-->
+<script id="menuTemplate" type="text/html">
+	<div id="outerMenuTabs" class="outerMenuTabs">
+		<ul id="menuTabs" class="menuTabs">
+			<% for(var menuItem in data) { %>
+				<li data-tabName="<%= menuItem %>" class="menu<%= menuItem %>"><%= data[menuItem].title %></li>
+			<% } %>
+		</ul>
+	</div>
+	<div id="menuContent" class="menuContent">
+		<div id="menuScroll" class="menuScroll">
+			<% for(var menuItem in data) { %>
+				<div id="<%= menuItem %>" class="hidden"><div></div></div>
+			<% } %>
+		</div>
+	</div>
+</script>
+
+<!--
+	WELCOME
+-->
+<script id="welcomeTemplate" type="text/html">
+	<h3>Nyhetsbrev</h3>
+	<p><a href="http://littlealchemy.com/newsletter" target="_blank">Anmäl dig till vårt nyhetsbrev och missa aldrig en uppdatering igen.</a></p>
+	<h3>Sociala medier</h3>
+	<p>Följ oss på sociala medier!</p>
+	<ul class="menuSocialMedia">
+		<li><img src="img/icon-twitter.png" class="menuSocialMediaTwitter" /></li>
+		<li><img src="img/icon-googleplus.png" class="menuSocialMediaGoogle" /></li>
+		<li><img src="img/icon-facebook.png" class="menuSocialMediaFacebook" /></li>
+	</ul>
+	<h3>Kontakt</h3>
+	<ul>
+		<li>contact@littlealchemy.com</li>
+		<li><a href="http://jakubkoziol.com/press/sheet.php?p=little_alchemy" target="_blank">presskit</a></li>
+	</ul>
+	<h3>Team</h3>
+	<p>A game by Jakub Koziol // <a href="http://twitter.com/jakubkoziol" target="_blank">@jakubkoziol</a></p>
+	<p>Little Alchemy wouldn&#39;t be possible without the help from these fine folks:</p>
+	<ul>
+		<li>Łukasz Nawrot - Code</li>
+		<li>Marcin Bychawski - Code, Tools</li>
+		<li>Ewa Koziol - Icons</li>
+		<li>Kamil Kubiak - QA</li>
+	</ul>
+</script>
+
+<!--
+	SETTINGS
+-->
+<script id="settingsTemplate" type="text/html">
+	<h3>Inställningar</h3>
+	<ul>
+		<li>
+			<select class="menuSelect" id="settingsLanguage">
+				<% for(var lang in languages) { %>
+					<option value="<%= lang %>" <% if(lang === selected) { %>selected<% } %>>
+						<%= languages[lang] %>
+					</option>
+				<% } %>
+			</select>
+			<label for="settingsLanguage">Välj språk</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsCheckAlreadyCombined"/>
+			<label class="menuCheckboxLabel" for="settingsCheckAlreadyCombined">Blanda inte tidigare kombinerade element</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsMarkFinalElements"/>
+			<label class="menuCheckboxLabel" for="settingsMarkFinalElements">Markera slutliga elementen</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsHideFinalElements"/>
+			<label class="menuCheckboxLabel" for="settingsHideFinalElements">Dölj slutliga element från biblioteket</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsTurnOffNotifications"/>
+			<label class="menuCheckboxLabel" for="settingsTurnOffNotifications">Inaktivera aviseringar</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsTurnOffElementsPositions"/>
+			<label class="menuCheckboxLabel" for="settingsTurnOffElementsPositions">Spara inte positioner på arbetsytan</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsHideElementNames"/>
+			<label class="menuCheckboxLabel" for="settingsHideElementNames">Göm namn på arbetsytan</label>
+		</li>
+		<li>
+			<input type="checkbox" class="menuCheckbox" id="settingsNightMode"/>
+			<label class="menuCheckboxLabel" for="settingsNightMode">Nattläge</label>
+		</li>
+		<li id="loggedInAs" class="loggedInAs" style="display: none">
+			Du är inloggad som: <span></span>
+		</li>
+		<li class="menuButtonContainer">
+			<button class="menuButton" id="settingsDisconnect">Koppla från Google+</button>
+		</li>
+		<li class="menuButtonContainer">
+			<button class="menuButton" id="settingsResetProgress">Återställ framsteg</button>
+		</li>
+	</ul>
+</script>
+
+<!--
+	LEADERBOARDS
+-->
+<script id="leaderboardsTemplate" type="text/html">
+	<h3>Topplista</h3>
+	<div class="waitText" id="leaderboardWaitText" style="display: none">
+		<div class="waitingIndicator" id="leaderboardWaitingIndicator"></div>
+	</div>
+	<div id="leaderboard"></div>
+	<button class="menuButton" id="shareLeaderboard" style="display: none;">Dela</button>
+</script>
+
+<!--
+	ACHIEVEMENTS
+-->
+<script id="achievementsTemplate" type="text/html">
+	<h3>Prestationer</h3>
+	<div id="achievementsList"></div>
+</script>

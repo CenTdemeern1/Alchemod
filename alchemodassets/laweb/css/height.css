@@ -1,0 +1,89 @@
+/* ==========================================================================
+   Media Queries height
+   ========================================================================== */
+
+@media only screen and (min-height: 750px) {
+    .panel .content{
+        height: 650px;
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (min-height: 690px) and (max-height: 749px) {
+    .panel .content{
+        height: 650px;
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (min-height: 500px) and (max-height: 689px) and (min-width: 460px) {
+    .panel .content{
+        height: 95%;
+        top: 2.5%; /* for some reason this can't be set as margin-top because dark magic happens */
+    }
+}
+
+@media only screen and (min-height: 500px) and (max-height: 689px) and (max-width: 459px) {
+    .panel .content{
+        height: 100%;
+        margin-top: 0;
+    }
+}
+
+@media only screen and (min-height: 420px) and (max-height: 499px) {
+    .panel .content{
+        height: 100%;
+        margin-top: 0;
+    }
+}
+
+@media only screen and (min-height: 260px) and (max-height: 419px) {
+    .panel .content{
+        height: 100%;
+        margin-top: 0;
+    }
+
+    .loadingScreenContainer {
+       margin: 10px auto 0 auto;
+    }
+
+    .loadingScreenLogo {
+        width: 222px;
+        height: 85px;
+        margin: 0 auto 10px auto;
+    }
+
+    .loadingScreenMessage {
+        padding: 0 5px;
+        margin-top: 10px;
+    }
+
+    .loadingScreenPlatforms {
+        display: none;
+    }
+}
+
+@media only screen and (max-height: 259px) {
+    .panel .content{
+        height: 100%;
+        margin-top: 0;
+    }
+
+    .loadingScreenContainer {
+       margin: 10px auto 0 auto;
+    }
+
+    .loadingScreenLogo {
+        width: 222px;
+        height: 85px;
+        margin: 0 auto 10px auto;
+    }
+
+    .loadingScreenMessage {
+        display: none;
+    }
+
+    .loadingScreenPlatforms {
+        display: none;
+    }
+}

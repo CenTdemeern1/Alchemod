@@ -1,0 +1,914 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.2.1
+
+Name: assets/www/fonts/Roboto-Light.eot
+SHA1-Digest: lohIwoIYhsSsc1G+ShsTku9PADg=
+
+Name: assets/www/resources/pl/templates.html
+SHA1-Digest: sBVmRmxLtmZogDLFwDIxIdoOXT8=
+
+Name: assets/www/img/achievement50.png
+SHA1-Digest: yX7rAI01VgZSzpAxfliogLZjjRE=
+
+Name: META-INF/services/com.google.protobuf.GeneratedExtensionRegistry
+ Loader
+SHA1-Digest: iniTjeviLXhwgIYsyVRj9YaVfhg=
+
+Name: assets/www/img/achievements.svg
+SHA1-Digest: Kt6Y71yFfvWlp56/FZZ//XJn/fk=
+
+Name: assets/www/php/PHPUserAgent/phpUserAgentStringParser.php
+SHA1-Digest: mCHTAa5U0N1OjozREeRxagR0Jcw=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: uNft/ovF7BrOPDnn7tEuzqqjCSE=
+
+Name: assets/www/img/achievement-not-earned-placeholder.png
+SHA1-Digest: 8lyanBRyjAocBTO7OVaOe/XIuJA=
+
+Name: assets/www/fonts/RobotoCondensed-Light.eot
+SHA1-Digest: JNh5dGtOkPH2d8ez4qeI135ouVU=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: P/wxkPCZpWlDXn4V4hSETB1GR4s=
+
+Name: assets/www/js/alchemy.templates.js
+SHA1-Digest: YU1pEvpFMUeUzHCLtUbgLRZbIEg=
+
+Name: res/drawable-xxhdpi-v4/ic_action_remove.png
+SHA1-Digest: GbOqf2Yga6qVAxaA3ec35ac0Yio=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: h1LoGEv7CTdqAsjIHhJzt6kXxD4=
+
+Name: assets/www/img/broadcast-fade.png
+SHA1-Digest: QCC31/JnlyJcxXkY41GNdDBf43o=
+
+Name: assets/www/img/night-mode-la2button.png
+SHA1-Digest: +0YteOW33fhMdgBChE4kMR9LEMY=
+
+Name: assets/www/resources/no/menu.html
+SHA1-Digest: m0qIjfexD+/cOlMuhJNusUVz3XY=
+
+Name: assets/www/resources/it/names.json
+SHA1-Digest: hfR+FjA7A2Vtr3O/ux/ztjpEQzM=
+
+Name: res/drawable-xxhdpi-v4/ic_action_next_item.png
+SHA1-Digest: c25EZH3BjQyHSy++YinAPl3kQmE=
+
+Name: assets/www/resources/en/names.json
+SHA1-Digest: SMtJC6Rpd/gXawRtNbEpUVie1Ig=
+
+Name: assets/www/resources/es/languagePack.json
+SHA1-Digest: JN2Z8xW/AgcDqyG+kVQ/i1bzVMs=
+
+Name: assets/www/resources/nl/broadcast.json
+SHA1-Digest: 2sEqbrI6O6UOynRF+EqWRVX4zeY=
+
+Name: assets/www/img/achievement300-locked.png
+SHA1-Digest: 8yeQhJsw1SUbPJnjSvK0kAwqyeI=
+
+Name: assets/www/assets/splash/2208x1242.png
+SHA1-Digest: KWaLZAA1v6Xmo72o0zUHyKGs6tA=
+
+Name: assets/www/img/achievement400-locked.png
+SHA1-Digest: qmY3PjH7mMgu547ON6kVPt5bd38=
+
+Name: assets/www/img/achievement-earned-placeholder.png
+SHA1-Digest: wQQrPtIKMqPqT7ghfOZsnGuwDbo=
+
+Name: assets/www/img/leaderboard.svg
+SHA1-Digest: rSElfXQP3GWqYofsWSGT5rfsR+8=
+
+Name: assets/www/assets/splash/1536x2048.png
+SHA1-Digest: JYLgNUdib6wHmswv7s1Av8uPk5c=
+
+Name: assets/www/resources/pt/names.json
+SHA1-Digest: JNBR72N7dleTAcVIKK+3GpvozSE=
+
+Name: resources.arsc
+SHA1-Digest: srMN3imSE+ReDMF+y0FiHzKxR2w=
+
+Name: res/drawable-mdpi-v4/ic_action_previous_item.png
+SHA1-Digest: hQHJ4uWUXYR/W5HKEfkoL0otUKY=
+
+Name: assets/www/img/night-mode-cross-panel-dark.png
+SHA1-Digest: TM/zD73zFJxk64po5sMVCqV1gc0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: LYsunek2bCdkCFvtGsfDng1LhVg=
+
+Name: assets/www/js/alchemy.history.js
+SHA1-Digest: BalXxuQyIN1eb54nh7bPry+HOD4=
+
+Name: assets/www/img/la2button.png
+SHA1-Digest: SQbgMxnOHuVTtXzfhzJguaU9e5g=
+
+Name: assets/www/resources/es/names.json
+SHA1-Digest: 5zz5qF/x1Ai7XTJimy34gJyz03c=
+
+Name: assets/www/js/vendor/templateEngine.v2.js
+SHA1-Digest: 2D2o6+YZQFsDCFDxfyIbbUwFFPU=
+
+Name: res/mipmap/icon.png
+SHA1-Digest: J7NrbJvQGSAEdfm8nzk02uihFpQ=
+
+Name: assets/www/plugins/org.apache.cordova.inappbrowser/www/inappbrow
+ ser.js
+SHA1-Digest: c9jf4EWgUesfzm4IjxJ1PHfMGgk=
+
+Name: assets/www/resources/no/templates.html
+SHA1-Digest: h0H2hdfzEm+dk9icNu1Y/ilqxs0=
+
+Name: res/xml/config.xml
+SHA1-Digest: eRN4+ancSs2ng6np4Kb03Zfgg6s=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_light_norma
+ l.xml
+SHA1-Digest: 7FWiMDweK6sY2O/U7WzvlAvLClg=
+
+Name: assets/www/js/alchemy.leaderboard.js
+SHA1-Digest: SLrANTCVpcq5r3NCZJmzYLPuRMc=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: Ya1tpyHj6UguHBTnIseHxBePDSA=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l_background.9.png
+SHA1-Digest: Mp14FgGLVMAFx4aJz9gLqSo67Ns=
+
+Name: assets/www/js/vendor/iscroll-lite-5.0.6.1.js
+SHA1-Digest: cQr4t2JtwWVaKufavFXlRMoKh+U=
+
+Name: assets/www/img/night-mode-un-fullscreen.png
+SHA1-Digest: 7uTvIFT29Jouy8CO4ztcBLu7xAM=
+
+Name: assets/www/assets/splash/1136x640.png
+SHA1-Digest: lTxCh0JyDxXJBvb5dQgkHU5jYaY=
+
+Name: assets/www/img/512-alpha.png
+SHA1-Digest: qvcPczUT1mZ9/QaKrHc35qkfyKI=
+
+Name: assets/www/resources/de/languagePack.json
+SHA1-Digest: WfZpvjBbD07SVXMea9k0P3S0d+c=
+
+Name: assets/www/resources/nl/languagePack.json
+SHA1-Digest: Z9Tb7BDXmcWvTmQJCs6q/188410=
+
+Name: assets/www/resources/sv/broadcast.json
+SHA1-Digest: K5RT2PkCZFwhJlBcmSuqy8T1X60=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_
+ background.9.png
+SHA1-Digest: yD9oZ20JeI0KgCsh9WHkjjufTLU=
+
+Name: assets/www/resources/fr/templates.html
+SHA1-Digest: RF2SZHTH/6BvpTGNm6lSgapO01s=
+
+Name: assets/www/resources/pl/languagePack.json
+SHA1-Digest: QpSbJXBKzPUKPb5cRvl/8ZbuitQ=
+
+Name: res/drawable-xhdpi-v4/ic_action_remove.png
+SHA1-Digest: l5JGHVyNioatN5tnVH3EIvs4nRA=
+
+Name: assets/www/resources/pl/menu.html
+SHA1-Digest: wVS/lF8fdi79uGavbjZdo87lMbQ=
+
+Name: assets/www/resources/en-us/menu.html
+SHA1-Digest: eR9yLSeLeagypa5pHwAstZi1+Zw=
+
+Name: assets/www/img/library-background.png
+SHA1-Digest: euNOUJnPBizRWiSKY4DPlPmU0u4=
+
+Name: assets/www/plugins/cordova-plugin-x-socialsharing/www/SocialShar
+ ing.js
+SHA1-Digest: DsEdr3n5lq3stq5qtEfEYzE8LWA=
+
+Name: res/drawable-hdpi-v4/ic_action_next_item.png
+SHA1-Digest: qB37IvvoMeEjuZF5lSzNL1atssw=
+
+Name: assets/www/resources/de/templates.html
+SHA1-Digest: SeIUhYAY1x/6UQBzY+U9ygnT668=
+
+Name: assets/www/resources/en-us/broadcast.json
+SHA1-Digest: YvgA+sjJr/ZjJ/H0wAXZDfru920=
+
+Name: assets/www/img/screenshot.png
+SHA1-Digest: JFJ/MZFCxZtRV4E9xIRADnKRULs=
+
+Name: assets/www/js/alchemy.library.box.js
+SHA1-Digest: oQjpJUIrEw07psCna8pKFinGtaI=
+
+Name: assets/www/assets/ios/x58.png
+SHA1-Digest: lWzpc7nPmq8trbttKuIwzNC95HU=
+
+Name: assets/www/plugins/es6-promise-plugin/www/promise.js
+SHA1-Digest: v+D50Ic/pyPUSCiNmKV4nA9UGp4=
+
+Name: assets/www/resources/sv/notifications.html
+SHA1-Digest: BZkHpfdpo5VUFi1n9xVxLQpHivc=
+
+Name: assets/www/php/PHPUserAgent/phpUserAgent.php
+SHA1-Digest: aiu46Wwz+scyWYA6Nixm0xWWcdE=
+
+Name: assets/www/img/background.jpg
+SHA1-Digest: WD9EjaGLl+aZOR6MQvCibJiC3Ik=
+
+Name: assets/www/img/loading-screen-logo.png
+SHA1-Digest: roy9KV36aCggz1NoBz6PdgWYGLw=
+
+Name: assets/www/assets/splash/640x1136.png
+SHA1-Digest: tr0UfB9ra3AlHJUckIr6n4jZZFg=
+
+Name: assets/www/cordova.js
+SHA1-Digest: dyCdlJVfQmQ6RnqjQ3vcc5465Ws=
+
+Name: assets/www/img/little-alchemy-1024-logo.png
+SHA1-Digest: nvE3UIhjiktQXZNTtJxnm/ZWM0M=
+
+Name: assets/www/resources/sv/menu.html
+SHA1-Digest: N6SH/za/s46RDCEemmQtTzyU8fM=
+
+Name: res/mipmap-ldpi-v4/icon.png
+SHA1-Digest: J7NrbJvQGSAEdfm8nzk02uihFpQ=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: 7NPPLIAc5QzEK09bYQStupu/S08=
+
+Name: assets/www/assets/android/x96.png
+SHA1-Digest: nM1ET+BrcK1WMWIL8vKwUNklTMg=
+
+Name: assets/www/resources/no/names.json
+SHA1-Digest: yHCkFHKhRKYvbUX9FouacfwLC+I=
+
+Name: assets/www/img/achievement100.png
+SHA1-Digest: UKOSBViKUgBbWczzWIMJuVkBgBQ=
+
+Name: assets/www/resources/es/menu.html
+SHA1-Digest: FMGBj3tlv9RgyFst+SLdZ5U9FRA=
+
+Name: assets/www/js/alchemy.settings.js
+SHA1-Digest: VwbhimfRmNuqYv1QTFGL+oqfVAk=
+
+Name: assets/www/resources/nl/menu.html
+SHA1-Digest: LPewa9gbn5k+pPMy7KlY115J5tw=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: PpWZKZFjPFyMgpHfeMn9iqgiRa8=
+
+Name: assets/www/js/vendor/templateEngine.js
+SHA1-Digest: y2FthtY8JHr9Ynj9B5hW2cx4G20=
+
+Name: assets/www/assets/splash/1242x2208.png
+SHA1-Digest: 8ARlecQAwNtGwSaQ3d6ZvftjiGc=
+
+Name: assets/www/js/alchemy.stats.js
+SHA1-Digest: qB2qYwTNcFp/9QreXy6qrNJe6Ks=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: Xu/vb2avz7RRuCeMEpG0r934+10=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: XBrlG5PBf4YH6VsSxD2+nV63KbU=
+
+Name: assets/www/js/vendor/html2canvas-0.4.1.min.js
+SHA1-Digest: HyMUc8l5HX1e1mZbHqlRVeIFzUg=
+
+Name: assets/www/css/share.css
+SHA1-Digest: R6guWff2jJyYTom/ev63JL0dzm4=
+
+Name: assets/www/img/152-opaque.png
+SHA1-Digest: lZqQhpEZhjtTUO85+dCo9EPbiSQ=
+
+Name: assets/www/img/night-mode-menu.png
+SHA1-Digest: neidJIRHlmuyhtMPI565gzW788Q=
+
+Name: assets/www/resources/no/languagePack.json
+SHA1-Digest: Wo//YC/vsoiAfEbQPHnYnysUAxY=
+
+Name: assets/www/assets/splash/768x1024.png
+SHA1-Digest: Z8IXi5EF/9z8wOx7cwE+Pxagtkk=
+
+Name: assets/www/resources/pt/notifications.html
+SHA1-Digest: rgc1RtKFYU5Wu7Syqb6O88DqHx4=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: 7S9TcXc89Lj6FlK/Rtfvh5fIwLQ=
+
+Name: assets/www/assets/ios/x40.png
+SHA1-Digest: 0Xs1PnBTdCPu4B6LlTNkCg1wFJo=
+
+Name: assets/www/img/achievement200-locked.png
+SHA1-Digest: qU+a0+/Ks0UfJZexAz3zo4lRLU4=
+
+Name: assets/www/resources/es/templates.html
+SHA1-Digest: yMGLxrRqUxK0cpmB8DRCn2glvCw=
+
+Name: assets/www/css/height.css
+SHA1-Digest: WjMdESG8yDNZGH6UYDHZcwzUAKk=
+
+Name: assets/www/fonts/Roboto-Thin.ttf
+SHA1-Digest: Ku2jq8xBADoNts0+rk6wUz0yj4M=
+
+Name: assets/www/plugins/cordova-plugin-googleplus/www/GooglePlus.js
+SHA1-Digest: u5DTncZ6xMG64uR0m290lsRNUFw=
+
+Name: assets/www/resources/nl/templates.html
+SHA1-Digest: F0Hblrj+QyU1SsWHcfgH/JmcT6o=
+
+Name: assets/www/resources/fr/menu.html
+SHA1-Digest: wsg8HDufFmfs2eBbRNSoqnOvtKw=
+
+Name: res/drawable-xxhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: nMVBDwLTSbultJoYcciQ4bN8x8o=
+
+Name: assets/www/fonts/RobotoCondensed-Light.svg
+SHA1-Digest: +P79vka/F9mhedhilvAauvwLyd8=
+
+Name: res/drawable-hdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: Frh8AW9iLDxmahoCdZryg8xY5oU=
+
+Name: assets/www/img/96-alpha.png
+SHA1-Digest: nM1ET+BrcK1WMWIL8vKwUNklTMg=
+
+Name: res/drawable-xhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: ZcMH44vutC6BZDj/Ys3HeH+gI7w=
+
+Name: assets/www/img/home.svg
+SHA1-Digest: l4wHOupb0SMqfq73bLrrS3jMwfo=
+
+Name: assets/www/resources/base.json
+SHA1-Digest: h4HWOjunELcpmVeW4q3AeW9sLso=
+
+Name: assets/www/resources/fr/languagePack.json
+SHA1-Digest: H2OAHRFr92bowivVom57jorsD58=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ _background.9.png
+SHA1-Digest: YWT3Hu0c24Wx6GE5EQWO6lX0T2A=
+
+Name: assets/www/assets/ios/x120.png
+SHA1-Digest: Oq0qPnVGF6HcjFg7fh+7ztIUO3Y=
+
+Name: assets/www/img/clear.png
+SHA1-Digest: gdAS2L/9uGgwwUCdx57Uy2I8kMQ=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: dyCdlJVfQmQ6RnqjQ3vcc5465Ws=
+
+Name: assets/www/img/achievement50-locked.png
+SHA1-Digest: UeCyozOlCGJ1gP2xMkLkhEARQgA=
+
+Name: assets/www/resources/de/menu.html
+SHA1-Digest: 6mqRPCphHZRSrGtDzJtVNfNcPzc=
+
+Name: assets/www/assets/ios/x180.png
+SHA1-Digest: 5yj9iRGJgFDjlMw1Q71hGNbhcik=
+
+Name: res/drawable-mdpi-v4/ic_action_remove.png
+SHA1-Digest: nKigmEPh2ytFH29tSmzdel83ejA=
+
+Name: res/drawable-hdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: Q8+/UkxxAdzHEbStCy6gP5wz9Ww=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: bsfgc/1xs7uUHKj3AzwfEQmzACM=
+
+Name: assets/www/resources/pl/notifications.html
+SHA1-Digest: KWfS9r5WyHuKQ9x9qgot9lwiFbQ=
+
+Name: res/xml/sharing_paths.xml
+SHA1-Digest: Oy3plj5kdTAEYWWuiWhKS1QTLXk=
+
+Name: res/drawable-xxhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: sbalRnfCBJXlLc218fU4OXCE3Cs=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: pUHnUwhHwQGCZKgROL9pCtZnnas=
+
+Name: assets/www/resources/fr/broadcast.json
+SHA1-Digest: F/PrkTNNqih5b/HAYjOO0BO9Xfk=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ _background.9.png
+SHA1-Digest: kJWGBYkmpyPo8tZlRKh0fttExxk=
+
+Name: assets/www/resources/pl/broadcast.json
+SHA1-Digest: 0T0ZFt3hf/CSATkQd4/+diU0/WI=
+
+Name: assets/www/resources/en-us/templates.html
+SHA1-Digest: Qhccc4XgqbgwSV5/aazWwwwfZAI=
+
+Name: assets/www/resources/de/broadcast.json
+SHA1-Digest: 66QC5vbE+HC/CG1woxlAV7mmIdw=
+
+Name: assets/www/css/main.css
+SHA1-Digest: bbeffZ/KO1G5eR+W76ZB/Is/iJA=
+
+Name: assets/www/img/workspace-background.png
+SHA1-Digest: 9q24CZTVEb6YCJoi90AwKlrXxNM=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: 7+B6lBfBrVgweOcupZEYdkJywlU=
+
+Name: res/drawable-mdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: S0ZpKklATh57RGckBxjIOYATXVU=
+
+Name: assets/www/assets/splash/960x640.png
+SHA1-Digest: mU3f1Ga9q7WZJsf8LLra46PQJSo=
+
+Name: assets/www/assets/ios/x87.png
+SHA1-Digest: 6BXHzRzXqrUxbXDzqTErMI7w5Wo=
+
+Name: assets/www/fonts/Roboto-Light.svg
+SHA1-Digest: r19fKr/7WIgQMYYOwRw2U0/RVEg=
+
+Name: assets/www/img/144-alpha.png
+SHA1-Digest: ctiJ/zuTctAIJosDQx/1ABN68Fw=
+
+Name: assets/www/assets/android/x42.png
+SHA1-Digest: qO6ODYvWKpvS7C+NS4G81cIdSWc=
+
+Name: assets/www/js/alchemy.loading.js
+SHA1-Digest: 6y/yfWKGT/vPhRuhpq+aw3OeNJU=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: OuPdHrGRTuKVbnKaNUfNzepj9O0=
+
+Name: res/mipmap-fr-xxhdpi-v4/icon.png
+SHA1-Digest: J7NrbJvQGSAEdfm8nzk02uihFpQ=
+
+Name: assets/www/assets/android/x144.png
+SHA1-Digest: AAQhDewFdTqXYKX1vSdRRiUV7T4=
+
+Name: assets/www/resources/nl/notifications.html
+SHA1-Digest: GE+x2g3sDXwN55PhiptS+R7JrHM=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: T+xZBrUKLdRmiHgHXkIrmqJnwdE=
+
+Name: assets/www/js/alchemy.localization.js
+SHA1-Digest: DjEr9uoNkfVCIA90zXynJGMUGM4=
+
+Name: assets/www/img/192-alpha.png
+SHA1-Digest: W1+hCC4FpEkYNwP6uB7Pli1pyk4=
+
+Name: res/drawable-mdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: BEW+rJtfFQu8wxetRm0dBxGmVJ8=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_dark_normal
+ .xml
+SHA1-Digest: Sy5tM2GzKVAKlRdqrlYe8ggQFUY=
+
+Name: assets/www/resources/no/notifications.html
+SHA1-Digest: MZospaDsM4JCi8ZKlKOz6q7xlEw=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: I5WWd8/TK+LB2GdSrTfZGOCEYS4=
+
+Name: assets/www/js/alchemy.tutorial.js
+SHA1-Digest: UQvZxoguwxrlGTF9i4QcQBB7df0=
+
+Name: assets/www/img/128-alpha.png
+SHA1-Digest: KeVgniALZK3V9YXKCKvqwAJ+ZB4=
+
+Name: assets/www/img/menu-checkbox-checked.png
+SHA1-Digest: sZG7r2tcOXg06cjOVOlOATVWlFA=
+
+Name: assets/www/resources/it/templates.html
+SHA1-Digest: oyau7o+cT9/u8w31RCIew2O7E7E=
+
+Name: assets/www/img/120-opaque.png
+SHA1-Digest: ymkzpNBsZQ75jrJL6BZ5VKVHEpk=
+
+Name: assets/www/assets/ios/x76.png
+SHA1-Digest: OOCOCvhdvudnu1PHxUYghjKBjhw=
+
+Name: assets/www/plugins/cordova-plugin-google-analytics/www/analytics
+ .js
+SHA1-Digest: 2UgVPRV4/ypublz8rMNhB+kLW8g=
+
+Name: assets/www/resources/sv/templates.html
+SHA1-Digest: I/poxqZoT+pvnVFXHxDL4OHm6/I=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: gPt3wMFtHpXUsunGq8AIhB2GCDA=
+
+Name: assets/www/js/alchemy.GoogleAPI.js
+SHA1-Digest: d6u+GcUYa1FhMNn0tW2PkP31Yq4=
+
+Name: assets/www/fonts/Roboto-Light.woff
+SHA1-Digest: dXs0S1m2IrBZ/c698Wnec82GZYo=
+
+Name: assets/www/img/icon-facebook.png
+SHA1-Digest: 6hfiv6CqSJP/HUENomtk0E3t4JI=
+
+Name: assets/www/img/night-mode-fullscreen.png
+SHA1-Digest: WHLymdKukgkAQQTBgXAV2j4rrTY=
+
+Name: assets/www/img/night-mode-menu-checkbox-unchecked.png
+SHA1-Digest: r3Hbb4PzWbfNCET6Enh8mkXa8qg=
+
+Name: assets/www/resources/es/notifications.html
+SHA1-Digest: AXJSqG2KUoaDvvy76hCDuXJioKA=
+
+Name: assets/www/js/vendor/googleLogin.js
+SHA1-Digest: yKhoFg4CZUKdtc3iNhpne/6v+HA=
+
+Name: assets/www/fonts/Roboto-Thin.woff
+SHA1-Digest: G8Jr2GIIuV3tqyQHq/5Vq6uT9Ss=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: qleKQAEaDWtvjqExBwBTQxblfek=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: 7BUjI0s7S1BAwrJw7peUKu/YFG4=
+
+Name: assets/www/resources/no/broadcast.json
+SHA1-Digest: DPylhtRehzOMmfboiMwu0A8+Zj0=
+
+Name: assets/www/resources/en-us/names.json
+SHA1-Digest: EBTLUBugnwYAHHcoY6fTN2C9JKw=
+
+Name: assets/www/js/alchemy.update.js
+SHA1-Digest: bL9OF0gh5plMTYbqHDQyblcBsKg=
+
+Name: assets/www/icon.png
+SHA1-Digest: VzTBSBvc46kM/xJG+VXzDGx4rsw=
+
+Name: assets/www/assets/ios/x152.png
+SHA1-Digest: XaqysADMMxuM8VJrdKwMuZOaaXo=
+
+Name: assets/www/index.html
+SHA1-Digest: vXJbgn9M0IbnfkoOwVagoLkswAE=
+
+Name: assets/www/resources/it/languagePack.json
+SHA1-Digest: CBBuI1igTbDva5rOgeKLo5qqnJw=
+
+Name: assets/www/fonts/fonts.css
+SHA1-Digest: xIOFFJjjnCh4WyMoAJRquud8B+o=
+
+Name: assets/www/img/achievement300.png
+SHA1-Digest: qJJaDZcdjv8Gt4ACnUyVH1RlG5o=
+
+Name: assets/www/fonts/Roboto-Thin.svg
+SHA1-Digest: T3DKMd/MAbXwaUArR6H5xWWtxCo=
+
+Name: assets/www/resources/fr/notifications.html
+SHA1-Digest: aC/Bjk7eatmW3S4YYcybHURYK7s=
+
+Name: assets/www/img/achievement-all-locked.png
+SHA1-Digest: AL5/BkbU3etpG/lFRKEXvsLThvs=
+
+Name: assets/www/img/48-alpha.png
+SHA1-Digest: qO6ODYvWKpvS7C+NS4G81cIdSWc=
+
+Name: assets/www/img/night-mode-clear.png
+SHA1-Digest: bHgh0r8uUkj2IyVN6B8xWbJ57H4=
+
+Name: assets/www/assets/splash/640x960.png
+SHA1-Digest: CQmvWzNYWlYonhRSzEZ48CWjJdo=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: 1eWl0kIiC3mj6N8is5Uk44jyABY=
+
+Name: assets/www/resources/it/menu.html
+SHA1-Digest: 41Chk8uRPkJ8dPx1+PrOEroYW1Q=
+
+Name: assets/www/js/alchemy.workspace.js
+SHA1-Digest: LRWex5ZMS4g23tVXFMtECrJozxw=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: IkrmrmmuVz06NVl7Nv+YYaK9HSU=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: Pt4LOUzBwVoJY8QOs/m/fxsU/Uk=
+
+Name: assets/www/fonts/RobotoCondensed-Light.ttf
+SHA1-Digest: o1zrDDtM+Fb8h+kcxaZsKtPZecE=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA1-Digest: Cf2h9fk4QXEvEJkZBQegk1YQ/pM=
+
+Name: assets/www/js/alchemy.achievements.data.js
+SHA1-Digest: hS1bnpK6zTuVuQZ/vysRJOn2RIA=
+
+Name: assets/www/js/main.js
+SHA1-Digest: t5nJNjAN0Yi/4CO2D46s3MbQgq0=
+
+Name: assets/www/resources/pt/broadcast.json
+SHA1-Digest: f+VXieAB9RXSoeHA/qrtO9GX4XU=
+
+Name: assets/www/resources/de/names.json
+SHA1-Digest: JllgH1e3HdMTZyhbjg9mqNtNsnc=
+
+Name: assets/www/resources/en-us/languagePack.json
+SHA1-Digest: LPjZNaQt36v1YT779rXpvZ76WdI=
+
+Name: assets/www/resources/pt/menu.html
+SHA1-Digest: mdUqXGE9uJtpmhqpbRZzhc/SbXY=
+
+Name: assets/www/plugins/cordova-plugin-globalization/www/globalizatio
+ n.js
+SHA1-Digest: L2Wl3FMVOTuCdfUwRAhwv1NRb6E=
+
+Name: assets/www/resources/sv/languagePack.json
+SHA1-Digest: SaVAnly/3Th76pPlZ0MG6/8Kc7s=
+
+Name: assets/www/js/alchemy.library.js
+SHA1-Digest: KA7rSo/ah9dm3SrTpyfPhb3D2Q4=
+
+Name: assets/www/js/alchemy.storage.js
+SHA1-Digest: BvLv6Hj1Ex5FnPOy+BHK4nOjW9Y=
+
+Name: assets/www/img/icon-twitter.png
+SHA1-Digest: rMZH8S22pAr5zGDS00mZajNz6Wk=
+
+Name: res/drawable-mdpi-v4/ic_action_next_item.png
+SHA1-Digest: I11kR9J8D1ym6/6IDHX2g/nVzNc=
+
+Name: assets/www/js/alchemy.elementInfo.js
+SHA1-Digest: rhXo6Z1sMa0f+dVDsd45kiIl2Yw=
+
+Name: assets/www/img/settings.svg
+SHA1-Digest: NO3SbFZv2PD7mMq1Wyv9CY2ojs8=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: QWNxEibXctHKdimj4nbvZC5eWLc=
+
+Name: assets/www/js/alchemy.workspace.box.js
+SHA1-Digest: kMg4e6nttsHPaEKpPqyMwaVX7b4=
+
+Name: assets/www/js/alchemy.newsletter.js
+SHA1-Digest: cy8zZno0imgxyIpUEXv9UIiH+ZI=
+
+Name: assets/www/fonts/Roboto-Light.ttf
+SHA1-Digest: kmMkQEn4jwOEN/VkoFEUkogtfCI=
+
+Name: assets/www/img/night-mode-cross-panel.png
+SHA1-Digest: 3AX0IXiN2vLazJQ+Hp7CjJ22JJU=
+
+Name: assets/www/assets/android/x192.png
+SHA1-Digest: VzTBSBvc46kM/xJG+VXzDGx4rsw=
+
+Name: assets/www/img/achievement200.png
+SHA1-Digest: ZaWr8HBXBp4yTq5nk4kTZS1Deys=
+
+Name: res/drawable-xhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: 0dsU8dFcc2mtwhzv/EDl6N0yNE0=
+
+Name: assets/www/js/alchemy.notifications.js
+SHA1-Digest: ulqstKoRjGqehrmHJ/7XW5+BMNw=
+
+Name: assets/www/resources/fr/names.json
+SHA1-Digest: TOBcy4z74v0zmAhEyhiB2RX8vAs=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: By8brjA7NJHt+qPoVZKz92MywfY=
+
+Name: assets/www/img/achievement-hidden-locked.png
+SHA1-Digest: MGVGjGcZg6NxzvF2hnW1YrzYiiA=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: VYfC/z6me1616ikREcNs/lRnJj4=
+
+Name: assets/www/img/icon-googleplus.png
+SHA1-Digest: FjOx/HmkRLQSNfINKu+AhArpkwk=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 1X+zxf28Nny7aOkIHQF77KboqLs=
+
+Name: assets/www/resources/it/notifications.html
+SHA1-Digest: lORrow8+9cBGifjtGNUTYLLFe8I=
+
+Name: res/drawable-xxhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: O6f3A1T4xOSQqVUldAFPWs1Ax2I=
+
+Name: assets/www/php/errorReporting.php
+SHA1-Digest: kXTsKMMiE3exlKbJPxwv2dCsbg8=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_disabled.xm
+ l
+SHA1-Digest: etVUDaBDHqbSOgtzYVJGrQRJXCs=
+
+Name: assets/www/fonts/Roboto-Thin.eot
+SHA1-Digest: cwSbexrcJ4bEqexTLnIQWNlhPf8=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: V3s/YlawQ26DKo0P2hxPmefwmP4=
+
+Name: assets/www/img/achievement-hidden.png
+SHA1-Digest: JWt18oNOEBIMQ+bEC7vNTEKFWg0=
+
+Name: assets/www/plugins/cordova-plugin-globalization/www/Globalizatio
+ nError.js
+SHA1-Digest: J66NSQCtZMXEXxy58i/eqa18HPI=
+
+Name: assets/www/img/little-alchemy-logo.png
+SHA1-Digest: 7Ac0pmN1YGYIiO90Pf+uTQKK0Sk=
+
+Name: assets/www/js/vendor/fastClick.js
+SHA1-Digest: s56c+q76+RRXEo9g/09pMp65ZaM=
+
+Name: assets/www/img/achievement400.png
+SHA1-Digest: gRxFMS3w2hpyLjKmdRlIqP+V+jw=
+
+Name: assets/www/img/little-alchemy.png
+SHA1-Digest: byecjHMpZlR+PmcSNz73J91/TDs=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: +a/InSGo0lMLs6sL4IniO9hQpRs=
+
+Name: assets/www/img/night-mode-screenshot.png
+SHA1-Digest: xr5GNgqkyX+Aa8sFmnAvOI98cj0=
+
+Name: assets/www/js/alchemy.broadcast.js
+SHA1-Digest: c4ZVmvCFBt4JzfQqOOsyRkHL2Gk=
+
+Name: assets/www/js/alchemy.achievements.js
+SHA1-Digest: LJrQH/o0MXk5+K61YFxsqWtwAxk=
+
+Name: assets/www/img/36-alpha.png
+SHA1-Digest: y8AQlvIy/Zp3XhSlOpbjSOWPqGc=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: WsDxv+AYHvP8yk4B3MBf9zRujNE=
+
+Name: assets/www/js/vendor/jquery-2.1.0.min.js
+SHA1-Digest: mIhCWMvbDZOfosXnT8esnlbYFw8=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: m8eqSDrUBN7TRqSHj/66wsYGHQM=
+
+Name: assets/www/resources/pt/languagePack.json
+SHA1-Digest: ko+LDiEaxQ3hH112154a5kgi9Fw=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l_background.9.png
+SHA1-Digest: kieZ6iZ6OFU4p859oJQYCADvVuA=
+
+Name: assets/www/resources/nl/names.json
+SHA1-Digest: A1ndH4BXWlxt+lY9Ylq0QaHeZUg=
+
+Name: assets/www/js/vendor/html2canvas-0.4.1.js
+SHA1-Digest: zmhSi0eGZk0BxTgSaNFgbX0e/NA=
+
+Name: assets/www/resources/pl/names.json
+SHA1-Digest: zaXghZmdG6bmrZ1h3KW/G8oaG9Q=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: GP+/JjynifGXyO3gKsnOnGKNyf4=
+
+Name: assets/www/img/achievement-all.png
+SHA1-Digest: hISKIP20RvFDHa+B/Qbc5F3T+lM=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: y2n1M9pRtIo7/xIij4laJ+fEEqs=
+
+Name: res/drawable-hdpi-v4/ic_action_previous_item.png
+SHA1-Digest: 22hOl4hxhbk+vXL5yh1q/sikcuo=
+
+Name: assets/www/js/vendor/dragNdrop.js
+SHA1-Digest: C9n3FVS/fCgEKgMiURrRMGcREkc=
+
+Name: assets/www/img/library-fade.png
+SHA1-Digest: ba1NLzhZ9GT0yxvQM+d7evP7LQU=
+
+Name: assets/www/assets/ios/x80.png
+SHA1-Digest: uYR/E9MYHcUrsQUTjG9xrke3uiE=
+
+Name: assets/www/plugins/cordova-plugin-x-toast/www/Toast.js
+SHA1-Digest: qMjSwljAFhEIr4MMcXi2QHNvxQE=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ _background.9.png
+SHA1-Digest: V5BgoOMFP6SkB/Rq1phUjJUqsSo=
+
+Name: res/drawable-xhdpi-v4/ic_action_next_item.png
+SHA1-Digest: NR4QrPwnbh+SEbVIapOw4Qetu0E=
+
+Name: assets/www/js/alchemy.search.js
+SHA1-Digest: 4BB3m+E5nCLSU0ngDwSkp7KuFm0=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ _background.9.png
+SHA1-Digest: UeOh+HJRiySoixJQcw9pSx76zas=
+
+Name: assets/www/js/alchemy.menu.js
+SHA1-Digest: NNCcpEJkFSmjzmKaVa6ZW8rNAPU=
+
+Name: assets/www/resources/es/broadcast.json
+SHA1-Digest: mDptDXgnGoNGz7sQ/zPUwYbuugo=
+
+Name: assets/www/img/little-alchemy-open-graph.png
+SHA1-Digest: eccefFceOxx+QSMc2yKZVJX3W4c=
+
+Name: assets/www/plugins/cordova-plugin-x-toast/test/tests.js
+SHA1-Digest: kPbNySuQFIFQD3LOyDeahvAX2mM=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_
+ background.9.png
+SHA1-Digest: eDEv0/H5H+qqc28Qi2s85+/aPLA=
+
+Name: assets/www/assets/ios/x29.png
+SHA1-Digest: 2Ug6YodcrHaV0PaXu9ccBK2SsEo=
+
+Name: assets/www/img/achievement100-locked.png
+SHA1-Digest: t0m+iyPej4pe/6lwcZYMe6b9QZs=
+
+Name: assets/www/js/alchemy.feedback.js
+SHA1-Digest: M2cgfdfdf/x5XcAPt2SJstrUO7s=
+
+Name: assets/www/js/alchemy.gestures.js
+SHA1-Digest: R9/U+SE9LWqcRMb8dYfYt83hDwQ=
+
+Name: build-data.properties
+SHA1-Digest: 0dMPmz9BV5UiGopB4qBtUm06Vvw=
+
+Name: assets/www/img/night-mode-menu-checkbox-checked.png
+SHA1-Digest: XX270gVMtg07npt8872zfIMHakA=
+
+Name: assets/www/js/alchemy.sharing.js
+SHA1-Digest: EfJc7IrrOhufnWzqohDCx7qiHFw=
+
+Name: assets/www/img/cross-panel.png
+SHA1-Digest: lHfgUIzYbE+fiXz5LZmN6yivntc=
+
+Name: assets/www/img/la2logo.svg
+SHA1-Digest: WB4CnGp0lNaSXA4ykZS6qoKupJA=
+
+Name: assets/www/resources/images.json
+SHA1-Digest: rNvJtBhLWfZQmYlj8gnW8FiC9ec=
+
+Name: assets/www/img/menu-checkbox-unchecked.png
+SHA1-Digest: VjIqow9UjkMTWYYIPApSqa+3ChI=
+
+Name: assets/www/js/alchemy.notifications.data.js
+SHA1-Digest: bVzuR+a92LlU6pQoO3uZObYCNkY=
+
+Name: assets/www/resources/sv/names.json
+SHA1-Digest: p/XMHQRd2fSMjwDsGxGK5oYcUeI=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: 6npwbRM71/UkeFLwmrVXyDXQvqk=
+
+Name: assets/www/resources/pt/templates.html
+SHA1-Digest: FQyNGYDBi826sRtHSPy1nD0O27I=
+
+Name: assets/www/assets/splash/1024x768.png
+SHA1-Digest: 3bHmA3pLwqXhJYzQj2bia7UP6kw=
+
+Name: assets/www/fonts/RobotoCondensed-Light.woff
+SHA1-Digest: vgITjhZ1Md6BdlnAwNR4cIAYzdA=
+
+Name: assets/www/js/alchemy.game.js
+SHA1-Digest: h4iohMLYtWG5xIgmL59pRX8oL7Y=
+
+Name: assets/www/js/alchemy.bases.js
+SHA1-Digest: t0hjmh5cQEWoYUsd/xkX4x6W7Fg=
+
+Name: assets/www/resources/de/notifications.html
+SHA1-Digest: fiOd0idmmqhWzBVqwVBMpCjLE08=
+
+Name: assets/www/resources/en-us/notifications.html
+SHA1-Digest: E42OAwkxD2scUvVKeMYHU2tmPXI=
+
+Name: assets/www/img/76-opaque.png
+SHA1-Digest: OOCOCvhdvudnu1PHxUYghjKBjhw=
+
+Name: assets/www/assets/splash/2048x1536.png
+SHA1-Digest: cK3lvkdBPJNmXHtucmJvEzZWZuI=
+
+Name: assets/www/css/normalize.min.css
+SHA1-Digest: ZWAuaLufRV0Obq08/S2MSB3wJco=
+
+Name: assets/www/js/alchemy.loadingScreen.js
+SHA1-Digest: m6ELNBkfnnEEwJC7KssFTHK/5CY=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: DFef/yan8ly1VCWwCwiTc+Z/RHQ=
+
+Name: assets/www/resources/it/broadcast.json
+SHA1-Digest: tNLn/PbmTc0pkBuowmmI6vluXy8=
+
+Name: assets/www/img/72-alpha.png
+SHA1-Digest: DDTnPykafYAnbWHL/YGRhejxEug=
+
+Name: res/drawable-hdpi-v4/ic_action_remove.png
+SHA1-Digest: fJ8PTsrpYrWc6H7e3ctCsDSiaAY=
+
+Name: classes.dex
+SHA1-Digest: TYc2wTE//WhUseipQiqpfNyDfgY=
+
+Name: assets/www/assets/android/x72.png
+SHA1-Digest: wtqM03bJQhx/QQOydmGkglyEEkk=
+
