@@ -3,7 +3,7 @@ A Little Alchemy modding tool.
 
 # How do I use it?
 1. Install Python 3. (Make sure "Add python to path", "Tcl/Tk", and "PY launcher" are enabled!)
-2. Download the latest release of this program.
+2. [Download the latest release of this program](https://github.com/CenTdemeern1/Alchemod/releases).
 3. Run `alchemod-manager.py`.
 4. Type `make` and press enter to open the editing interface.
 
