@@ -16,3 +16,7 @@ Firstly, you need to decide if you want to play it on Android or using your brow
 4. Open your browser.
 5. Enter `http://localhost:8080/Little_Alchemy_1.8.0_modded_web/` in your address bar, or just copy and paste it from here, and press enter.
 6. You're done! You may close the `server.py` window now if you so desire.
+### If you want to play it on an Android phone:
+1. Run `alchemod-manager.py`.
+2. Type `generate-apk` and press enter.
+3. When it's finished, install the APK file on an Android phone.
